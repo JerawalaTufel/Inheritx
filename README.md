@@ -1,9 +1,5 @@
-# CAPERMINT_TASK
+# Inheritx_Task
 
-## Description
-Overview:
-
-Create a express.js application that serves as the backend for a CAPERMINT_TASK. 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine.
 
